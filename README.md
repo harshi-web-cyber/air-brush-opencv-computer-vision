@@ -1,5 +1,7 @@
 # 🎨 Air Brush – Draw in the Air with Computer Vision
 
+https://www.linkedin.com/posts/activity-7441912924283052032-1gH9?utm_source=share&utm_medium=member_desktop&rcm=ACoAAF2ORtYBzc4h4affAFXXugEQGci1UIc8Pis
+
 You don't need a mouse anymore for drawing!
 
 **Air Brush** is a fun computer vision project that lets you draw using just your fingers in the air. Using **Python, OpenCV, and MediaPipe**, the system tracks hand gestures in real time through a webcam and transforms your movements into digital strokes on the screen.
